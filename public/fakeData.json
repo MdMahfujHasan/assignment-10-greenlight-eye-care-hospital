@@ -1,0 +1,50 @@
+[
+    {
+        "key": "1",
+        "name": "Dr. Rajore Karin, MBBS, BDS, BAMS",
+        "fee": 200,
+        "img": "https://media.istockphoto.com/photos/portrait-of-mature-male-doctor-wearing-white-coat-standing-in-picture-id1203995945?k=20&m=1203995945&s=612x612&w=0&h=g0_ioNezBqP0NXrR_36-A5NDHIR0nLabFFrAQVk4PhA="
+    },
+    {
+        "key": "2",
+        "name": "Dr. Kariman Janetin, BYBS, BHMS",
+        "fee": 150,
+        "img": "https://image.freepik.com/free-photo/portrait-smiling-handsome-male-doctor-man_171337-5055.jpg"
+    },
+    {
+        "key": "3",
+        "name": "Dr. Saleh Kader, MBBS, BAMS, BUMS",
+        "fee": 120,
+        "img": "https://media.istockphoto.com/photos/happy-healthcare-practitioner-picture-id138205019?k=20&m=138205019&s=612x612&w=0&h=KpsSMVsplkOqTnAJmOye4y6DcciVYIBe5dYDgYXLVW4="
+    },
+    {
+        "key": "4",
+        "name": "Dr. Ulla Jaber, MBBS",
+        "fee": 50,
+        "img": "https://thumbs.dreamstime.com/b/male-doctor-portrait-isolated-white-background-56744085.jpg"
+    },
+    {
+        "key": "5",
+        "name": "Dr. Zendorin Liasone, BUMS, BYNS",
+        "fee": 120,
+        "img": "https://previews.123rf.com/images/dolgachov/dolgachov1307/dolgachov130700228/20605818-bright-picture-of-male-doctor-with-stethoscope.jpg"
+    },
+    {
+        "key": "6",
+        "name": "Dr. Bisarionazib Woltis, MBBS, BUMS, BYNS",
+        "fee": 135,
+        "img": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4661529.jpg"
+    },
+    {
+        "key": "7",
+        "name": "Dr. Jilabinar Pisocib, MBBS, BYNS",
+        "fee": 145,
+        "img": "https://st3.depositphotos.com/10654668/13844/i/600/depositphotos_138445604-stock-photo-male-doctor-in-hospital.jpg"
+    },
+    {
+        "key": "8",
+        "name": "Dr. Walternail Junior, BDS, BAMS, BYNS",
+        "fee": 170,
+        "img": "https://media.istockphoto.com/photos/portrait-of-happy-african-doctor-at-private-clinic-picture-id1189303662?k=20&m=1189303662&s=612x612&w=0&h=q3P08I8GlYRHIYFoN-h_WBM0PPGzO6ox4XJx8kxJRsc="
+    }
+]

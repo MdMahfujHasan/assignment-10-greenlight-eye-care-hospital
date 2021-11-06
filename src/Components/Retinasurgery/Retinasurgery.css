@@ -1,0 +1,20 @@
+.retinasurgery-title{
+    color: brown;
+    background-color: #000000cc;
+    padding: 5px;
+    width: 50%;
+    font-size: 50px;
+    margin: auto;
+    margin-bottom: 20px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 15px gray;
+}
+.retinasurgery{
+    margin-top: 10px;
+    padding: 20px;
+    background-image: linear-gradient(to bottom, #E6E6FA, white);
+}
+.retinasurgery-doctor{
+    margin-top: 10px;
+    background-image: linear-gradient(to bottom, #FFF0F5, white);
+}

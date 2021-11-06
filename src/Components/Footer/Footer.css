@@ -1,0 +1,11 @@
+.footer{
+    background-color: #000000e6;
+    padding: 50px;
+    margin-top: 10px;
+}
+.footer p small{
+    color: white;
+}
+.col-4 p{
+    color: #dfdfdf;
+}

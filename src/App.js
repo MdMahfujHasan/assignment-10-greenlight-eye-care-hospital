@@ -1,24 +1,37 @@
-import logo from './logo.svg';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
+import EyeSurgeries from './Components/EyeSurgeries/EyeSurgeries';
+import Blepharoplasty from './Components/Blepharoplasty/Blepharoplasty';
+import Retinasurgery from './Components/Retinasurgery/Retinasurgery';
+import Cornealtransplant from './Components/Cornealtransplant/Cornealtransplant';
+import Cataractsurgery from './Components/Cataractsurgery/Cataractsurgery';
+import Glaucomasurgery from './Components/Glaucomasurgery/Glaucomasurgery';
+import NotFound from './Components/NotFound/NotFound';
+import Header from './Components/Header/Header';
+import Footer from './Components/Footer/Footer';
+import Login from './Components/Login/Login';
+import SignUp from './Components/SignUp/SignUp';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <Router>
+        <Header></Header>
+        <Routes>
+          <Route exact path="/" element={<EyeSurgeries />} />
+          <Route path="/eyesurgeries" element={<EyeSurgeries />} />
+          <Route path="/blepharoplasty" element={<Blepharoplasty />} />
+          <Route path="/retinasurgery" element={<Retinasurgery />} />
+          <Route path="/cornealtransplant" element={<Cornealtransplant />} />
+          <Route path="/cataractsurgery" element={<Cataractsurgery />} />
+          <Route path="/glaucomasurgery" element={<Glaucomasurgery />} />
+          <Route path="/login" element={<Login />} />
+          <Route path="/signup" element={<SignUp />} />
+          <Route path="*" element={<NotFound />} />
+        </Routes>
+        <Footer></Footer>
+      </Router>
+    </div >
   );
 }
 

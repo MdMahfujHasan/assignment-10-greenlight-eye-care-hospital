@@ -1,0 +1,20 @@
+.cataractsurgery-title{
+    color: #32CD32;
+    background-color: #000000cc;
+    padding: 5px;
+    width: 50%;
+    font-size: 50px;
+    margin: auto;
+    margin-bottom: 20px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 15px gray;
+}
+.cataractsurgery{
+    margin-top: 10px;
+    padding: 20px;
+    background-image: linear-gradient(to bottom, #66CDAA, white);
+}
+.cataractsurgery-doctor{
+    margin-top: 10px;
+    background-image: linear-gradient(to bottom, #BA55D3, white);
+}

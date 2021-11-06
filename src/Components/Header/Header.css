@@ -1,0 +1,28 @@
+img:hover{
+    cursor: pointer;
+}
+h1{
+    font-size: 4em;
+}
+p{
+    color: #3c3c3c;
+    font-weight: 100;
+    font-family: 'Lucida Sans';
+}
+.nav-bar{
+    background-color: black;
+}
+nav{
+    line-height: 43px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 13px;
+    font-size: 20px;
+    padding: 10px;
+}
+nav a:hover{
+    color: black;
+    background-color: orange;
+}
