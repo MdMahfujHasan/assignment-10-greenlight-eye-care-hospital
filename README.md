@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# GreenLight Eye Care Hospital
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live site [click here](https://10-assignment-green-light-eye-care.netlify.app/).
 
 ## Available Scripts
 
